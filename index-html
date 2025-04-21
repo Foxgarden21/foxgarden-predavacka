@@ -1,0 +1,7 @@
+echo "# foxgarden-predavacka" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Foxgarden21/foxgarden-predavacka.git
+ git push -u origin main
